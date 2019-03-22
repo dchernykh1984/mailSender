@@ -7,7 +7,7 @@ public class MainClass {
         System.out.println("SimpleEmail Start");
 
         String smtpHostServer = "localhost";
-        String emailID = "dchernykh@localhost.mock";
+        String emailID = "attach@localhost.mock";
 
         Properties props = System.getProperties();
 
